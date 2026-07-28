@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "firmware_url": "https://raw.githubusercontent.com/HB9IIU/HB9IIU-FlexKnob-firmware/main/latest/firmware.bin",
-  "size": 1913344,
-  "sha256": "20ade62d13db1c459ffe29c26429602a6a89b770e3cff609fc775d3b7afadc6a"
+  "size": 1913376,
+  "sha256": "f5efd796d75ef63d4ef3898a63274a15411eb6cd7f60f6b2b35a582be514ed88"
 }
