@@ -1,6 +1,6 @@
 {
   "name": "FlexKnob",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
